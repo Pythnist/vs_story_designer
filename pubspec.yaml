@@ -23,7 +23,7 @@ dependencies:
       url: https://github.com/knottx/image_gallery_saver.git
       ref: knottx-latest
   
-  vs_media_picker: ^1.0.1
+  vs_media_picker: ^1.0.4
   # gallery_media_picker: 0.0.82
 
   # modal_gif_picker: ^0.0.2
